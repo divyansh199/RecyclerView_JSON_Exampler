@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView JSON Exampler</string>
+    <string name="creator_name">Creator Name</string>
+    <string name="like">Like:</string>
+</resources>
